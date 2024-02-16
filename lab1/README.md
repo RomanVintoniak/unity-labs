@@ -1,7 +1,7 @@
 # Lab 1 | Maze
 
 ### Scene
-![photo](Screenshots/Scene.png)
+![photo](Screenshots/scene.png)
 
 <br>
 
